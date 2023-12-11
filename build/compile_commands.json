@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/kacpe/Desktop/ray tracer/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\ray_tracer.dir\\main.cpp.obj -c \"C:\\Users\\kacpe\\Desktop\\ray tracer\\main.cpp\"",
+  "file": "C:/Users/kacpe/Desktop/ray tracer/main.cpp",
+  "output": "CMakeFiles/ray_tracer.dir/main.cpp.obj"
+}
+]
